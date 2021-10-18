@@ -17,7 +17,7 @@ J'étudie actuellement l'informatique à l'Institut Marie-Thérèse Solacroup (�
 L'année dernière (2019-2020), j'ai étudié les technologies front-end (HTML/CSS et JavaScript, ainsi que Python et Wordpress).
 Cette année (2020-2021), je me lance dans l'étude du back-end (Node JS et SQL)
 
-Lien vers mon portfolio : https://github.com/corsairecypri/3-me-portfolio
+Lien vers mon portfolio : https://github.com/corsairecypri/portfolioActuel
 
 
 ##Repésitories GitHub les plus récents
