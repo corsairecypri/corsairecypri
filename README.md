@@ -20,16 +20,6 @@ Cette année (2020-2021), je me lance dans l'étude du back-end (Node JS et SQL)
 Lien vers mon portfolio : https://github.com/corsairecypri/portfolioActuel
 
 
-## Repésitories GitHub les plus récents
-
-
-<!-- BLOG-POST-LIST:START -->
-
-https://github.com/corsairecypri/Convertisseur
-
-https://github.com/corsairecypri/exercices_C
-
-<!-- BLOG-POST-LIST:END --> 
 
 ## Mes compétences
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
