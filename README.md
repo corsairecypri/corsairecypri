@@ -14,8 +14,9 @@
 
 J'étudie actuellement l'informatique à l'Institut Marie-Thérèse Solacroup (à Dinard)
 
-L'année dernière (2019-2020), j'ai étudié les technologies front-end (HTML/CSS et JavaScript, ainsi que Python et Wordpress).
-Cette année (2020-2021), je me lance dans l'étude du back-end (Node JS et SQL)
+Durant l'année 2019-2020 j'ai étudié les technologies front-end (HTML/CSS et JavaScript, ainsi que Python et Wordpress).
+En 2020-2021, j'ai continué avec l'étude des technologies back-end (Node JS, SQL, Strapi et Django).
+Cette année (2021-2022), je commence une année en alternance durant laquelle j'approfondis l'étude de Docker, de PHP et de l'architecture MVC.
 
 Lien vers mon portfolio : https://github.com/corsairecypri/portfolioActuel
 
@@ -27,5 +28,9 @@ Lien vers mon portfolio : https://github.com/corsairecypri/portfolioActuel
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PostGresSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 
