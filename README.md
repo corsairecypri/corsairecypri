@@ -12,11 +12,12 @@
 
 ## Introduction
 
-J'étudie actuellement l'informatique à l'Institut Marie-Thérèse Solacroup (à Dinard)
+J'ai étudié l'informatique à l'Institut Marie-Thérèse Solacroup (à Dinard)
 
 Durant l'année 2019-2020 j'ai étudié les technologies front-end (HTML/CSS et JavaScript, ainsi que Python et Wordpress).
 En 2020-2021, j'ai continué avec l'étude des technologies back-end (Node JS, SQL, Strapi et Django).
-Cette année (2021-2022), je commence une année en alternance durant laquelle j'approfondis l'étude de Docker, de PHP et de l'architecture MVC.
+En 2021-2022, j'ai d'abord étudié Docker, PHP et l'architecture MVC. J'ai ensuite continué avec un projet React et 
+la réalisation d'un stage WordPress avec l'éditeur Divi.
 
 Lien vers mon portfolio : https://github.com/corsairecypri/portfolioActuel
 
